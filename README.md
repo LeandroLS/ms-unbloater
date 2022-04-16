@@ -8,3 +8,4 @@ Simple custom script to remove "unnecessary" softwares from MS Windows 10+
 
 ### Requiriments
 Windows 10+
+winget installed
